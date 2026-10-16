@@ -1,0 +1,209 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+
+.logo {
+
+    display: flex;
+    justify-content: start;
+}
+
+
+
+.nav-bar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+    list-style: none;
+    color: aliceblue;
+    margin: 0px 0px 0px 0px;
+}
+
+.head {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    margin: -550px 0px 0px 0px;
+}
+
+
+.body-img {
+    width: 1263px;
+}
+
+.home {
+    width: 60px;
+    height: 20px;
+    background-color: rgb(47, 45, 45);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.btn {
+    width: 60px;
+    margin: 0px 30px 0px 0px;
+}
+
+.container-1 {
+    width: 1263px;
+    height: 3615px;
+    background-color: rgb(32, 31, 31);
+}
+
+.h1 {
+    color: aliceblue;
+    font-size: xx-large
+}
+
+.para {
+    color: aliceblue;
+    margin: 20px 0px 0px -40px;
+}
+
+.para-cnt {
+    margin: 420px 0px 0px 400px;
+}
+
+.btn-1 {
+    width: 200px;
+    min-height: 40px;
+    background-color: red;
+    border-radius: 10px;
+    border: none;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+
+    margin: 40px 0px 0px 500px;
+}
+
+.Rectangle {
+    margin: 5px 0px 0px -10px;
+}
+
+
+.para-cnt-2 {
+    margin: 250px 0px 0px 20px;
+}
+
+.h-2 {
+    color: aliceblue;
+}
+
+.para-2 {
+    color: aliceblue;
+    margin: 20px 0px 0px 0px;
+
+}
+
+.Buttons {
+    width: 130px;
+    margin: -1000px 0px 0px 1100px;
+}
+
+.sub-contain {
+    width: 1250px;
+    margin: 0px 0px 0px 1px;
+}
+
+.h-3 {
+    color: aliceblue;
+    margin: 0px 0px 0px 10px;
+}
+
+.h-3WE {
+    margin: 100px 0px 0px 0px;
+}
+
+.para-3 {
+    color: aliceblue;
+}
+
+.para-cnt-3 {
+    margin: 0px 0px 0px 15px;
+}
+
+.hero{
+    width: 1250px;
+}
+
+.hero-3{
+    margin: 0px 0px 0px 4px;
+}
+.FAQ{
+    color: aliceblue;
+    margin: 70px 0px 0px 40px;
+}
+
+.faq-p{
+    color: aliceblue;
+    margin: 20px 0px 0px 40px ;
+}
+
+.faq-btn{
+    width: 100px;
+    margin: -300px 0px 0px 1000px;
+}
+
+.section-1{
+    width: 1250px;
+}
+
+.h-4{
+    color: aliceblue;
+}
+.para-4{
+    color: aliceblue;
+    margin-top: 20px;
+}
+
+.paragraph-4{
+    margin: 50px 0px 0px 20px;
+}
+
+.tabs{
+    width: 150px;
+    margin: 0px 0px 0px 1100px;
+}
+
+.items{
+    width: 1250px;
+}
+
+.background{
+    width: 1250px;
+}
+
+.h4{
+    color: aliceblue;
+}
+
+.para-40{
+    color: aliceblue;
+}
+
+.h4{
+    margin: -150px 0px 0px 0px ;
+}
+
+.btn-30{
+    width: 100px;
+    margin: -50px 0px 0px 1000px;
+}
+
+.bg-container{
+    margin: 200px 0px 0px 0px ;
+}
+
+.footer{
+    width: 1250px;
+    margin: 300px 0px 0px 0px;
+}
